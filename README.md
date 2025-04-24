@@ -1,2 +1,2 @@
-# knitwit
+# twisted stitch
 simple knitting tools
